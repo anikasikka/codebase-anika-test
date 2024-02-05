@@ -1,3 +1,7 @@
 "Hello this is my first file!"
+
 "Yay languages are so fun"
 "Love languages tbh"
+
+"¡Hola, este es mi primer archivo!"
+"Salve, hic est primus fasciculus!"
